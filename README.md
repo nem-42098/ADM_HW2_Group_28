@@ -17,11 +17,11 @@ Here is the list of data sets used in this project which are already mounted on 
 
 
 ## Contents
-**RQ1 - RQ8** :<br> The solutions for RQ1 to RQ8, written in Python. <br>
+**Individual_Code_Files/RQ1 - RQ8** :<br> The solutions for RQ1 to RQ8, written in Python. <br>
 Caveat: As mentioned before, these codes were developed on *AWS SageMaker*, therefor to run the .ipynb files without error, the needed datasets are addressed in *Data* folder like: '/home/ec2-user/SageMaker/Data/instagram_posts.csv'. <br>
 
-**Bonus A, Bonus B, Bonus C**:<br> The solutions for all three bonus points. Again the same caveat is valid for these files as well. <br>
+**ndividual_Code_Files/Bonus A,Bonus B,Bonus C**:<br> The solutions for all three bonus points. Again the same caveat is valid for these files as well. <br>
 
 **CommandLine.sh** :<br> The solution to the command line question. It is developed on Linux so to run it over Windows, [Gawk](https://gnuwin32.sourceforge.net/packages/gawk.htm) needs to be installed. The output of this shell file is represented in the **results.rar** file.
 
-**AQ1, AQ2**:<br> Solutions for both algorithmic questions, written in notebooks. Both the needed codes and pseudocodes are written there. <br>
+**ndividual_Code_Files/AQ1,AQ2**:<br> Solutions for both algorithmic questions, written in notebooks. Both the needed codes and pseudocodes are written there. <br>
