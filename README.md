@@ -1,8 +1,7 @@
 # ADM HW2 - Group 28
 
 ## Introduction
-This repository represents the solutions for the second homework of the *ADM* course. <br> 
-The codes are developed by **Group #28** with the following members:<br>
+This repository represents the solutions for the second homework of the *ADM* course.The codes are developed by **Group #28** with the following members:<br>
 
 Luca Mazzucco, 1997610<br>
 Nemish Murawat, 2056142<br>
