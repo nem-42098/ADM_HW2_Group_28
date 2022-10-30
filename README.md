@@ -28,6 +28,5 @@ Caveat: As mentioned before, these codes were developed on *AWS SageMaker*, ther
 
 **Main.ipynb**:<br> This contains the combined Jupyter Notebooks for the all the questions[*RQ1-RQ8*,*BonusA-BonusB*,*AQ1-AQ2*]. In case of some discrepeancy please refer the individual notebooks present in the *Individual_Code_files* folder.
 
-**pre_processing_posts.py,
-pre_processing_profiles.py**:<br> These are the python functions used in some parts of the questions for pre-processing the data(dealing with NAN values and it's replacement). Again, this is not the standard adopted in the main.ipynb. Used when applicable.
+**pre_processing_posts.py, pre_processing_profiles.py**:<br> These are the python functions used in some parts of the questions for pre-processing the data(dealing with NAN values and it's replacement). Again, this is not the standard adopted in the main.ipynb. Used when applicable.
 
