@@ -9,7 +9,7 @@ The codes are developed by **Group 28** with the following members:<br>
 - **Giacomo Vittori** : 1811571<br>
 - **Sara Zeynalpour** : 1997862<br>
 
-Object of this homework are data collected from **Instagram** representing **posts**, **profiles**, and **locations** in three different *.csv* files.\
+Object of this homework are data collected from [**Instagram**](https://www.instagram.com) representing **posts**, **profiles**, and **locations** in three different *.csv* files.\
 Considering the sheer volume of the data, all the solutions were developed on **AWS SageMaker**, over the **Jupyter Notebook** platform.
 <br>
 
