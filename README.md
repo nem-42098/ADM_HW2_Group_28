@@ -9,8 +9,10 @@ The codes are developed by **Group 28** with the following members:<br>
 - **Giacomo Vittori**, 1811571<br>
 - **Sara Zeynalpour**, 1997862<br>
 
-The subject of this homework is 3 data sets collected from *Instagram* representing posts, profiles, and locations in three different *.csv* files. Considering the sheer volume of the data, all the solutions were developed on *AWS SageMaker*, over the *Jupyter Notebook* platform, and by using *Python* language.<br>
-Here is the list of data sets used in this project which are already mounted on *AWS*:
+Object of this homework are data collected from **Instagram** representing **posts**, **profiles**, and **locations** in three different *.csv* files.\
+Considering the sheer volume of the data, all the solutions were developed on **AWS SageMaker**, over the **Jupyter Notebook** platform, and by using **Python** language.<br>
+
+Here is the list of data sets used in this project which are already mounted on *AWS* ready for download:
 - *Instagram* posts data: [instagram_posts.zip](https://adm2022.s3.amazonaws.com/instagram_posts.zip)
 - *Instagram* profiles data: [instagram_profiles.zip](https://adm2022.s3.amazonaws.com/instagram_profiles.zip)
 - *Instagram* locations data: [instagram_locations.zip](https://adm2022.s3.amazonaws.com/instagram_locations.zip)
