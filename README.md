@@ -1,12 +1,13 @@
-# ADM HW2 - Group 28
+# ADM_HW2 
 
 ## Introduction
-This repository represents the solutions for the second homework of the *ADM* course.The codes are developed by **Group #28** with the following members:<br>
+This repository represents the solutions for the second homework of the *ADM* course.\
+The codes are developed by **Group 28** with the following members:<br>
 
-Luca Mazzucco, 1997610<br>
-Nemish Murawat, 2056142<br>
-Giacomo Vittori, 1811571<br>
-Sara Zeynalpour, 1997862<br>
+- **Luca Mazzucco**, 1997610<br>
+- **Nemish Murawat**, 2056142<br>
+- **Giacomo Vittori**, 1811571<br>
+- **Sara Zeynalpour**, 1997862<br>
 
 The subject of this homework is 3 data sets collected from *Instagram* representing posts, profiles, and locations in three different *.csv* files. Considering the sheer volume of the data, all the solutions were developed on *AWS SageMaker*, over the *Jupyter Notebook* platform, and by using *Python* language.<br>
 Here is the list of data sets used in this project which are already mounted on *AWS*:
